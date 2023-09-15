@@ -1,4 +1,4 @@
-# Custom Icon Badges
+# Banners Vulnerables
 
 [![stars](https://custom-icon-badges.demolab.com/github/stars/DenverCoder1/custom-icon-badges?logo=star)](https://github.com/DenverCoder1/custom-icon-badges/stargazers "stars")
 [![issues](https://custom-icon-badges.demolab.com/github/issues-raw/DenverCoder1/custom-icon-badges?logo=issue)](https://github.com/DenverCoder1/custom-icon-badges/issues "issues")
@@ -7,7 +7,7 @@
 
 Allows users to more easily use Octicons and their own icons and logos on [shields.io badges](https://github.com/badges/shields).
 
-## ⚡ How to use
+## ⚡ Como usarlo
 
 1. Get a badge URL from [shields.io](https://shields.io/).
 
@@ -25,115 +25,8 @@ Preview:
 
 4. You're done! Use the image URL in your HTML or markdown! Star this repo if you find it useful! ⭐
 
-## 🖼️ Existing logos
 
-The following are examples of existing icons and logos that are already available.
-
-### Simple Icons
-
-Over 2,000 brand icons from [Simple Icons](https://github.com/simple-icons/simple-icons) are already supported by shields.io.
-
-You can find a list of slugs for each brand [here](https://github.com/simple-icons/simple-icons/blob/develop/slugs.md).
-
-### Octicons
-
-All [250+ Octicons](https://primer.style/octicons/) from GitHub are supported by Custom Icon Badges.
-
-| Slug               | Example                                                   |
-| ------------------ | --------------------------------------------------------- |
-| `issue-opened`     | [![issue-opened][issue-opened]][issue-opened]             |
-| `repo-forked`      | [![repo-forked][repo-forked]][repo-forked]                |
-| `star`             | [![star][star]][star]                                     |
-| `git-commit`       | [![git-commit][git-commit]][git-commit]                   |
-| `repo`             | [![repo][repo]][repo]                                     |
-| `git-pull-request` | [![git-pull-request][git-pull-request]][git-pull-request] |
-| `heart`            | [![heart][heart]][heart]                                  |
-| `mail`             | [![mail][mail]][mail]                                     |
-| More Octicons      | [View all ⇨](https://primer.style/octicons)               |
-
-[issue-opened]: https://custom-icon-badges.demolab.com/badge/Issue-red.svg?logo=issue-opened&logoColor=fff
-[repo-forked]: https://custom-icon-badges.demolab.com/badge/Fork-orange.svg?logo=fork
-[star]: https://custom-icon-badges.demolab.com/badge/Star-yellow.svg?logo=star
-[git-commit]: https://custom-icon-badges.demolab.com/badge/Commit-green.svg?logo=git-commit&logoColor=fff
-[repo]: https://custom-icon-badges.demolab.com/badge/Repo-blue.svg?logo=repo
-[git-pull-request]: https://custom-icon-badges.demolab.com/badge/Pull%20Request-purple.svg?logo=pr
-[heart]: https://custom-icon-badges.demolab.com/badge/Heart-D15E9B.svg?logo=heart
-[mail]: https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail
-
-### Feather Icons
-
-All [250+ Feather Icons](https://feathericons.com/) are supported by Custom Icon Badges.
-
-**Note:** To use Feather Icons, you must use add the query parameter `logoSource=feather` to the URL in addition to the `logo` parameter.
-
-| Slug               | Example                                       |
-| ------------------ | --------------------------------------------- |
-| `activity`         | [![activity][activity]][activity]             |
-| `alert-triangle`          | [![alert-triangle][alert-triangle]][alert-triangle]                |
-| `award`             | [![award][award]][award]                         |
-| `bar-chart`        | [![bar-chart][bar-chart]][bar-chart]          |
-| `box`              | [![box][box]][box]                            |
-| `camera`         | [![camera][camera]][camera]             |
-| `cast`             | [![cast][cast]][cast]                         |
-| `command`          | [![command][command]][command]                |
-| `dollar-sign`             | [![dollar-sign][dollar-sign]][dollar-sign]                         |
-| `download-cloud`           | [![download-cloud][download-cloud]][download-cloud]                   |
-| `upload-cloud`     | [![upload-cloud][upload-cloud]][upload-cloud] |
-| `tv`               | [![tv][tv]][tv]                               |
-| `youtube`          | [![youtube][youtube]][youtube]                |
-| More Feather Icons | [View all ⇨](https://feathericons.com/)       |
-
-[activity]: https://custom-icon-badges.demolab.com/badge/activity-red.svg?logo=activity&logoSource=feather
-[alert-triangle]: https://custom-icon-badges.demolab.com/badge/alert--triangle-orange.svg?logo=alert-triangle&logoSource=feather
-[award]: https://custom-icon-badges.demolab.com/badge/award-yellow.svg?logo=award&logoSource=feather
-[bar-chart]: https://custom-icon-badges.demolab.com/badge/bar--chart-green.svg?logo=bar-chart&logoSource=feather
-[box]: https://custom-icon-badges.demolab.com/badge/box-blue.svg?logo=box&logoSource=feather
-[camera]: https://custom-icon-badges.demolab.com/badge/camera-purple.svg?logo=camera&logoSource=feather
-[cast]: https://custom-icon-badges.demolab.com/badge/cast-pink.svg?logo=cast&logoSource=feather&logoColor=black
-[command]: https://custom-icon-badges.demolab.com/badge/command-brown.svg?logo=command&logoSource=feather
-[dollar-sign]: https://custom-icon-badges.demolab.com/badge/dollar--sign-grey.svg?logo=dollar-sign&logoSource=feather
-[download-cloud]: https://custom-icon-badges.demolab.com/badge/download--cloud-black.svg?logo=download-cloud&logoSource=feather
-[upload-cloud]: https://custom-icon-badges.demolab.com/badge/upload--cloud-purple.svg?logo=upload-cloud&logoSource=feather
-[tv]: https://custom-icon-badges.demolab.com/badge/tv-blue.svg?logo=tv&logoSource=feather
-[youtube]: https://custom-icon-badges.demolab.com/badge/youtube-red.svg?logo=youtube&logoSource=feather
-
-### Miscellaneous
-
-|                                                  |                                               |                                         |                                            |
-| ------------------------------------------------ | --------------------------------------------- | --------------------------------------- | ------------------------------------------ |
-| [![ceylon][ceylon]][ceylon]                      | [![color-swatch][color-swatch]][color-swatch] | [![controller][controller]][controller] | [![issue][issue]][issue]                   |
-| [![fire][fire]][fire]                            | [![flag][flag]][flag]                         | [![translate][translate]][translate]    | [![trending-up][trending-up]][trending-up] |
-| [![trending-down][trending-down]][trending-down] | [![phone][phone]][phone]                      | [![pygame][pygame]][pygame]             | [![grey-pygame][grey-pygame]][grey-pygame] |
-| Add your own!                                    | [![Upload Icon][uploadicon]][demo]            |                                         |                                            |
-
-[ceylon]: https://custom-icon-badges.demolab.com/badge/ceylon-E39842.svg?logo=ceylon&logoColor=fff
-[color-swatch]: https://custom-icon-badges.demolab.com/badge/color--swatch-green.svg?logo=color-swatch&logoColor=fff
-[controller]: https://custom-icon-badges.demolab.com/badge/controller-purple.svg?logo=controller
-[issue]: https://custom-icon-badges.demolab.com/badge/issue-orange.svg?logo=issue&logoColor=fff
-[fire]: https://custom-icon-badges.demolab.com/badge/fire-red.svg?logo=fire&logoColor=fff
-[flag]: https://custom-icon-badges.demolab.com/badge/flag-green.svg?logo=flag&logoColor=fff
-[translate]: https://custom-icon-badges.demolab.com/badge/translate-blue.svg?logo=translate&logoColor=white
-[trending-up]: https://custom-icon-badges.demolab.com/badge/trending--up-brightgreen.svg?logoColor=fff&logo=trending-up
-[trending-down]: https://custom-icon-badges.demolab.com/badge/trending--down-red.svg?logoColor=fff&logo=trending-down
-[phone]: https://custom-icon-badges.demolab.com/badge/phone-green.svg?logo=phone&logoColor=white
-[pygame]: https://custom-icon-badges.demolab.com/badge/pygame-013243.svg?logo=pygame
-[grey-pygame]: https://custom-icon-badges.demolab.com/badge/pygame-150458.svg?logo=grey-pygame
-[uploadicon]: https://custom-icon-badges.demolab.com/badge/Upload%20Icon-blue.svg?logo=upload&logoColor=white
-[demo]: https://custom-icon-badges.demolab.com
-
-## ➕ Adding a new logo
-
-Upload new icons using the demo site!
-
-The file type can be SVG, PNG, etc. but only SVG format supports the `logoColor` parameter for overriding the color of the logo.
-
-If you think your icon is useful to others, feel free to open a PR to add it to the README above!
-
-Demo site: <https://custom-icon-badges.demolab.com>
-
-[![image](https://user-images.githubusercontent.com/20955511/128404656-30af9c39-39a4-4ac8-a4b0-2a077806a94c.png)](https://custom-icon-badges.demolab.com)
-
-## 🚀 Example Usage
+## 🚀 Ejemplo
 
 Click to get the URL!
 
@@ -206,7 +99,7 @@ You can set the `host` parameter to one of the following to override the hostnam
 
 If you would like to use a different badge host, fork and modify this repository. Create a PR if it may be useful to others.
 
-## 🤗 Contributing
+## 🤗 Contribucion
 
 We welcome contributions!
 
@@ -236,11 +129,11 @@ Deploying on your own is optional. See the steps below.
 
 </details>
 
-## 💬 Questions?
+## 💬 Preguntas?
 
 Feel free to [open an issue](http://github.com/DenverCoder1/custom-icon-badges/issues/new/choose).
 
-## 🤩 Support
+## 🤩 Reporte de problemas?
 
 💙 If you like this project, give it a ⭐ and share it with friends!
 
@@ -248,7 +141,7 @@ Feel free to [open an issue](http://github.com/DenverCoder1/custom-icon-badges/i
 [![Sponsor with Github](https://custom-icon-badges.demolab.com/badge/-Sponsor-ea4aaa?style=for-the-badge&logo=heart&logoColor=white)](https://github.com/sponsors/DenverCoder1 "Sponsor me on GitHub")
 [![Buy me a coffee](https://custom-icon-badges.demolab.com/badge/-Buy_me_a_coffee-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/jlawrence "Buy me a coffee")
 
-## 👨‍💻 Technologies
+## 👨‍💻 Tecnologia
 
 [![MongoDB](https://custom-icon-badges.demolab.com/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Express](https://custom-icon-badges.demolab.com/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
