@@ -1,0 +1,2 @@
+220 mail.example.com ESMTP Exim 4.94.2 Tue, 13 Sep 2023 10:00:00 +0000
+220 mail.example.com ESMTP Exim 4.95.0 Wed, 14 Sep 2023 10:00:00 +0000

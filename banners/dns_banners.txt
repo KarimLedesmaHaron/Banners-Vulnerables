@@ -1,0 +1,4 @@
+BIND 9.16.1-Ubuntu (Extended Support Version) <id>
+PowerDNS Recursor 4.3.1 (jenkins@autotest.powerdns.com) starting up
+unbound 1.9.0
+dnsmasq 2.82

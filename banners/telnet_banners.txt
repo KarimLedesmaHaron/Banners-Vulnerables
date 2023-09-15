@@ -1,0 +1,5 @@
+SSH-2.0-OpenSSH_7.9p1 Debian-10+deb10u2
+SSH-2.0-OpenSSH_7.9p1 Debian-10+deb10u2
+SSH-2.0-OpenSSH_7.6p1 Ubuntu-4ubuntu0.5
+SSH-2.0-OpenSSH_7.2p2 Ubuntu-4ubuntu2.12
+SSH-2.0-OpenSSH_7.2p2 Ubuntu-4ubuntu2.12
